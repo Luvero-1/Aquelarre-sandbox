@@ -1,0 +1,34 @@
+{
+  "name": "aquelarre",
+  "title": "Mundo Aquelarre para FoundryVTT usando Sandbox",
+  "description": "<p style=\"text-align: center;\"><em>Carretas repletas de cad&aacute;veres resbalan por las calles embarradas de una ciudad deshabitada. Monjes copistas escriben en silencio en fr&iacute;as salas del monasterio. El martillo cae una y otra vez sobre el metal al rojo en el taller del herrero. Flores de fragante olor se abren en los jardines privados de la corte. Adustos y callados soldados marchan por caminos polvorientos en busca de enemigos, sean infieles o no. Es el mundo de la Edad Media, el que conocieron nuestros antepasados, el que conform&oacute; nuestro presente.</em></p>\n<p style=\"text-align: center;\"><em>Pero m&aacute;s all&aacute; de lo humano, en lo m&aacute;s profundo de los bosques, en la cueva m&aacute;s solitaria, en la celda m&aacute;s rec&oacute;ndita, en lo m&aacute;s oculto del coraz&oacute;n humano, viven las leyendas. Los demonios pisan castillos, los duendes se ocultan en la floresta, los alquimistas utilizan hechizos y las brujas r&iacute;en y r&iacute;en alrededor de la hoguera, en un claro de un bosque ba&ntilde;ado por la luz de la luna, mientras el demonio, sentado entre ellas, levanta su cabeza de macho cabr&iacute;o y te sonr&iacute;e, directamente a ti, lector:</em></p>\n<p style=\"text-align: center;\"><em>\"Bienvenido al Aquelarre\".</em></p>",
+  "author": "Luvero",
+  "authors": [
+    {
+      "name": "Luvero",
+      "discord": "Luvero#5745"
+    }
+  ],
+  "flags": {},
+  "version": "11.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": "sandbox",
+  "url": "https://github.com/lozalojo/foundryvtt-aquelarre",
+  "manifest": "https://raw.githubusercontent.com/lozalojo/foundryvtt-aquelarre/master/world.json",
+  "download": "https://codeload.github.com/lozalojo/foundryvtt-aquelarre/zip/master",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "background": "worlds/aquelarre-versiones/2%20Im%C3%A1genes/Fondo%20Aquelarre.jpg",
+  "coreVersion": "0.8.9",
+  "nextSession": null,
+  "resetKeys": false,
+  "safeMode": false,
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "0.8.9",
+  "systemVersion": "0.10.1"
+}
