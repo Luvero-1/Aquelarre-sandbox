@@ -37,7 +37,6 @@
 {"_id":"rcqfZQtESp4ubeuf","name":"Propiedades escudos","type":"Item","sort":800000,"flags":{},"parent":"SG5JvYgbsOafIzVj","color":""}
 {"_id":"t1s0Q7XguiL0GQvZ","name":"Propiedades para Armaduras","type":"Item","sort":650000,"flags":{},"parent":"SG5JvYgbsOafIzVj","color":""}
 {"_id":"tzqxBGHdJuQJCiSd","name":"_Paneles Caracteristicas","type":"Item","sort":200000,"flags":{},"parent":"Txd07qxH7FiHhuHL","color":""}
-{"name":"Pnjs pregenerados","type":"RollTable","sort":200000,"flags":{},"parent":"wCSKc1Ius8EFIUcB","sorting":"a","color":"","_id":"vBHNDAZvuPCo4yeo"}
 {"_id":"wCSKc1Ius8EFIUcB","name":"Tablas del sistema","type":"RollTable","sort":100000,"flags":{},"parent":null,"color":"#0080c0"}
 {"_id":"wTqAjA2AVWwRgCMd","name":"Ficha de PNJ-Seres irracionales (NO TOCAR)","type":"Item","parent":null,"sorting":"a","sort":200000,"color":"#804040","flags":{}}
 {"_id":"wlk4jVx0mz47Jj09","name":"_Propiedades Dificultad","type":"Item","sort":250000,"flags":{},"parent":"SG5JvYgbsOafIzVj","color":""}
