@@ -1,3 +1,4 @@
+{"name":"Desarrollo competencias","type":"Item","parent":"Gip3sjVpFqbWufLc","sorting":"a","sort":0,"color":null,"flags":{},"_id":"0w8QOF4heYUqUmoJ"}
 {"_id":"2zy0Sg4p1vN13q7g","name":"Panel competencias","type":"Item","sort":100000,"flags":{},"parent":"iXajduZgbW9dDaOP","sorting":"a","color":""}
 {"name":"Pifias","type":"RollTable","sort":null,"flags":{},"parent":"wCSKc1Ius8EFIUcB","color":"","_id":"3cuYHcGH8MY56Evk"}
 {"_id":"5SJtOT8r6RM8JrO7","name":"_Paneles de Inventario","type":"Item","sort":381250,"flags":{},"parent":"Txd07qxH7FiHhuHL","color":""}
@@ -8,6 +9,7 @@
 {"name":"Panel armas y proteccion","type":"Item","sort":2150000,"flags":{},"parent":"iXajduZgbW9dDaOP","sorting":"a","color":"","_id":"E0dAL9YQJWGUtFtt"}
 {"_id":"FIicxPuTt0E85ADu","name":"Propiedades de orgullos y vergüenzas","type":"Item","sort":50000,"flags":{},"parent":"SG5JvYgbsOafIzVj","color":""}
 {"_id":"Gip3sjVpFqbWufLc","name":"3 - Propiedades","type":"Item","sort":2150000,"flags":{},"parent":"NCH8ZwHEBASaADTo","sorting":"a","color":""}
+{"name":"Competencias","type":"Item","parent":"Gip3sjVpFqbWufLc","sorting":"a","sort":0,"color":null,"flags":{},"_id":"HmEpfuo4qTBkhdsD"}
 {"_id":"InfyD1pq9XROU9d9","name":"3 - Propiedades","type":"Item","sort":1750000,"flags":{},"parent":"wTqAjA2AVWwRgCMd","sorting":"a","color":""}
 {"_id":"KGrFzlfrWFukjvxu","name":"_Paneles de Hechizos y Ordos","type":"Item","sort":375000,"flags":{},"parent":"Txd07qxH7FiHhuHL","color":""}
 {"_id":"NCH8ZwHEBASaADTo","name":"Ficha de PNJ-Animales (NO TOCAR)","type":"Item","parent":null,"sorting":"a","sort":1950000,"color":"#046c10","flags":{}}
