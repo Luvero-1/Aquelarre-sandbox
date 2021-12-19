@@ -1,7 +1,7 @@
 {
   "name": "aquelarre-sandbox",
   "title": "Aquelarre para Sandbox",
-  "description": "<p style=\"text-align: center;\"><em>Carretas repletas de cad&aacute;veres resbalan por las calles embarradas de una ciudad deshabitada. Monjes copistas escriben en silencio en fr&iacute;as salas del monasterio. El martillo cae una y otra vez sobre el metal al rojo en el taller del herrero. Flores de fragante olor se abren en los jardines privados de la corte. Adustos y callados soldados marchan por caminos polvorientos en busca de enemigos, sean infieles o no. Es el mundo de la Edad Media, el que conocieron nuestros antepasados, el que conform&oacute; nuestro presente.</em></p>\n<p style=\"text-align: center;\"><em>Pero m&aacute;s all&aacute; de lo humano, en lo m&aacute;s profundo de los bosques, en la cueva m&aacute;s solitaria, en la celda m&aacute;s rec&oacute;ndita, en lo m&aacute;s oculto del coraz&oacute;n humano, viven las leyendas. Los demonios pisan castillos, los duendes se ocultan en la floresta, los alquimistas utilizan hechizos y las brujas r&iacute;en y r&iacute;en alrededor de la hoguera, en un claro de un bosque ba&ntilde;ado por la luz de la luna, mientras el demonio, sentado entre ellas, levanta su cabeza de macho cabr&iacute;o y te sonr&iacute;e, directamente a ti, lector:</em></p>\n<p style=\"text-align: center;\"><em>\"Bienvenido al Aquelarre\".</em></p>",
+  "description": "<p style=\"text-align:center\"><em>Carretas repletas de cadáveres resbalan por las calles embarradas de una ciudad deshabitada. Monjes copistas escriben en silencio en frías salas del monasterio. El martillo cae una y otra vez sobre el metal al rojo en el taller del herrero. Flores de fragante olor se abren en los jardines privados de la corte. Adustos y callados soldados marchan por caminos polvorientos en busca de enemigos, sean infieles o no. Es el mundo de la Edad Media, el que conocieron nuestros antepasados, el que conformó nuestro presente.</em></p>\n<p style=\"text-align:center\"><em>Pero más allá de lo humano, en lo más profundo de los bosques, en la cueva más solitaria, en la celda más recóndita, en lo más oculto del corazón humano, viven las leyendas. Los demonios pisan castillos, los duendes se ocultan en la floresta, los alquimistas utilizan hechizos y las brujas ríen y ríen alrededor de la hoguera, en un claro de un bosque bañado por la luz de la luna, mientras el demonio, sentado entre ellas, levanta su cabeza de macho cabrío y te sonríe, directamente a ti, lector:</em></p>\n<p style=\"text-align:center\"><em>\"Bienvenido al Aquelarre\".</em></p>",
   "author": "Luvero",
   "authors": [
     {
@@ -27,8 +27,7 @@
   "protected": false,
   "background": "worlds/aquelarre-sandbox/2%20Im%C3%A1genes/Imagenes%20fijas%20(NO%20TOCAR)/Fondo%20Aquelarre.jpg",
   "coreVersion": "0.8.9",
-  "nextSession": null,
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "0.10.1"
+  "systemVersion": "0.11.0"
 }
