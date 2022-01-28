@@ -1,3 +1,4 @@
+{"_id":"1uJK9svcaQLOdOtb","name":"cItems de ejemplo","type":"Item","parent":null,"sorting":"a","sort":2050000,"color":null,"flags":{}}
 {"_id":"2zy0Sg4p1vN13q7g","name":"Panel competencias","type":"Item","sort":100000,"flags":{},"parent":"iXajduZgbW9dDaOP","sorting":"a","color":""}
 {"name":"Pifias","type":"RollTable","sort":null,"flags":{},"parent":"wCSKc1Ius8EFIUcB","color":"","_id":"3cuYHcGH8MY56Evk"}
 {"name":"Competencias","type":"Item","parent":"Gip3sjVpFqbWufLc","sorting":"a","sort":0,"color":null,"flags":{},"_id":"4TU9WsgmGL5J2gaL"}
@@ -7,7 +8,6 @@
 {"_id":"8okxK4hh4RismlYl","name":"_Propiedades Car secundarias","type":"Item","sort":200000,"flags":{},"parent":"SG5JvYgbsOafIzVj","color":""}
 {"_id":"BqLHYPkVZlAtjpYs","name":"Propiedades de Ordos","type":"Item","sort":1025000,"flags":{},"parent":"SG5JvYgbsOafIzVj","color":""}
 {"name":"Panel armas y proteccion","type":"Item","sort":2150000,"flags":{},"parent":"iXajduZgbW9dDaOP","sorting":"a","color":"","_id":"E0dAL9YQJWGUtFtt"}
-{"name":"cItems de ejemplo","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"E5BbYtsBzOd8pq6G"}
 {"_id":"FIicxPuTt0E85ADu","name":"Propiedades de orgullos y vergüenzas","type":"Item","sort":50000,"flags":{},"parent":"SG5JvYgbsOafIzVj","color":""}
 {"_id":"Gip3sjVpFqbWufLc","name":"3 - Propiedades","type":"Item","sort":2150000,"flags":{},"parent":"NCH8ZwHEBASaADTo","sorting":"a","color":""}
 {"_id":"InfyD1pq9XROU9d9","name":"3 - Propiedades","type":"Item","sort":1750000,"flags":{},"parent":"wTqAjA2AVWwRgCMd","sorting":"a","color":""}
@@ -27,6 +27,7 @@
 {"_id":"cBFC0S5k56r4TNva","name":"1 - Pestañas","type":"Item","sort":100000,"flags":{},"parent":"NCH8ZwHEBASaADTo","sorting":"a","color":""}
 {"_id":"d7RjvteusTf0n8Yu","name":"Panel Caracteristicas","type":"Item","sort":200000,"flags":{},"parent":"iXajduZgbW9dDaOP","sorting":"a","color":""}
 {"name":"Plantillas para actores","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"fzjxuXQeSdcHbxwx"}
+{"name":"Propiedades Compentencias combate","type":"Item","parent":"SG5JvYgbsOafIzVj","sorting":"a","sort":0,"color":null,"flags":{},"_id":"gyNbRX3LmfkSZziT"}
 {"name":"_Propiedades Competencias check","type":"Item","parent":"SG5JvYgbsOafIzVj","sorting":"a","sort":0,"color":null,"flags":{},"_id":"hNZ2hkczgFYfl5QO"}
 {"_id":"hyhsYedakR99fyT8","name":"Tablas de Grupos","type":"Item","sort":382813,"flags":{},"parent":"Txd07qxH7FiHhuHL","color":""}
 {"_id":"iPSNwF7Al8MaaYxx","name":"_Paneles de Trasfondo","type":"Item","sort":100000,"flags":{},"parent":"Txd07qxH7FiHhuHL","color":""}
@@ -51,8 +52,3 @@
 {"name":"_Propiedades de Inventario","type":"Item","sort":1100000,"flags":{},"parent":"SG5JvYgbsOafIzVj","color":"","_id":"yN578bZgOevurcfX"}
 {"_id":"yiHAPkjwhQr1MRr5","name":"_Propiedades Competencias","type":"Item","sort":300000,"flags":{},"parent":"SG5JvYgbsOafIzVj","color":""}
 {"_id":"zX5MRFnDDOxUctCs","name":"1 - Pestañas","type":"Item","sort":1700000,"flags":{},"parent":"wTqAjA2AVWwRgCMd","sorting":"a","color":""}
-{"name":"Propiedades Compentencias combate","type":"Item","parent":"SG5JvYgbsOafIzVj","sorting":"a","sort":0,"color":null,"flags":{},"_id":"gyNbRX3LmfkSZziT"}
-{"name":"a","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"azZXSgqtSMon3VTU"}
-{"_id":"azZXSgqtSMon3VTU","name":"a","type":"Item","parent":null,"sorting":"a","sort":2050000,"color":null,"flags":{}}
-{"$$deleted":true,"_id":"azZXSgqtSMon3VTU"}
-{"$$deleted":true,"_id":"E5BbYtsBzOd8pq6G"}
