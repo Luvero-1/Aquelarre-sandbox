@@ -51,3 +51,8 @@
 {"name":"_Propiedades de Inventario","type":"Item","sort":1100000,"flags":{},"parent":"SG5JvYgbsOafIzVj","color":"","_id":"yN578bZgOevurcfX"}
 {"_id":"yiHAPkjwhQr1MRr5","name":"_Propiedades Competencias","type":"Item","sort":300000,"flags":{},"parent":"SG5JvYgbsOafIzVj","color":""}
 {"_id":"zX5MRFnDDOxUctCs","name":"1 - Pestañas","type":"Item","sort":1700000,"flags":{},"parent":"wTqAjA2AVWwRgCMd","sorting":"a","color":""}
+{"name":"Propiedades Compentencias combate","type":"Item","parent":"SG5JvYgbsOafIzVj","sorting":"a","sort":0,"color":null,"flags":{},"_id":"gyNbRX3LmfkSZziT"}
+{"name":"a","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"azZXSgqtSMon3VTU"}
+{"_id":"azZXSgqtSMon3VTU","name":"a","type":"Item","parent":null,"sorting":"a","sort":2050000,"color":null,"flags":{}}
+{"$$deleted":true,"_id":"azZXSgqtSMon3VTU"}
+{"$$deleted":true,"_id":"E5BbYtsBzOd8pq6G"}
